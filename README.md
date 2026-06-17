@@ -12,3 +12,7 @@ Pycharm安装教程：https://blog.csdn.net/2401_83413238/article/details/145422
 ## 3.安装cuda
 cuda网址：https://developer.nvidia.com/cuda/toolkit<br>
 cuda安装教程：https://blog.csdn.net/AI_dataloads/article/details/133043869<br>
+
+## 4.安装anaconda
+anaconda网址：https://www.anaconda.com/<br>
+anaconda安装教程：
