@@ -9,3 +9,6 @@ python安装教程：https://blog.csdn.net/qq_24923619/article/details/160594145
 Pycharm下载网址：https://www.jetbrains.com/pycharm/<br>
 Pycharm安装教程：https://blog.csdn.net/2401_83413238/article/details/145422332?ops_request_misc=elastic_search_misc&request_id=2235030ab07aa1f3b99619cd4fe91001&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_click~default-2-145422332-null-null.142^v102^pc_search_result_base5&utm_term=pycharm%E5%AE%89%E8%A3%85&spm=1018.2226.3001.4187
 
+## 3.安装cuda
+cuda网址：https://developer.nvidia.com/cuda/toolkit<br>
+cuda安装教程：https://blog.csdn.net/AI_dataloads/article/details/133043869<br>
